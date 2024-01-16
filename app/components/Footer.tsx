@@ -8,7 +8,12 @@ const Footer: React.FC = () => {
         Framwork. All rights reserved.
       </p>
       <p>
-        <a href="mailto:contact@example.com">Contact Us</a>
+        <a
+          href="mailto:scentsavvycainneenrichment@gmail.com
+"
+        >
+          Contact Us
+        </a>
         {/* <a href="/legal">Legal Information</a> */}
       </p>
     </footer>
